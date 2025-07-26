@@ -7,6 +7,7 @@ gem 'asciidoctor', '2.0.12'
 gem 'json'
 gem 'awesome_print'
 
+gem 'nokogiri', '~> 1.13.0'
 gem 'ttfunk', '1.5.1'
 gem 'asciidoctor-fb2'
 gem 'asciidoctor-epub3', '1.5.0.alpha.11'
